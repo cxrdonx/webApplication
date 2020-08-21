@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T03:47:07.983Z" agent="5.0 (Windows)" etag="YPybOwIIbEZfH37B6dHr" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T23:52:26.205Z" agent="5.0 (Windows)" etag="eu8zgG4s62hDovHAFApW" version="13.6.4" type="github">
   <diagram id="KuIn4XUdtdqArqsvYNwZ" name="Page-1">
-    <mxGraphModel dx="2580" dy="2020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3183" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,35 +15,22 @@
             <mxPoint x="-370" y="-26" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=-0.011;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-17" target="CR9XvU6vuiPJ1lPbERPu-29">
+        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CR9XvU6vuiPJ1lPbERPu-17" target="Gzq3qRDjKPmdAzM6GHBw-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-570" y="200" as="targetPoint" />
+            <mxPoint x="-680" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-570" y="-20" />
-              <mxPoint x="-570" y="200" />
-              <mxPoint x="-542" y="200" />
+              <mxPoint x="-590" y="-20" />
+              <mxPoint x="-590" y="45" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=0;entryY=0.364;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-17" target="Gzq3qRDjKPmdAzM6GHBw-5">
+        <mxCell id="D2q6A7rw465Pvs5loLwe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=cross;startFill=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-17" target="Gzq3qRDjKPmdAzM6GHBw-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-580" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-580" y="-20" />
-              <mxPoint x="-580" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=0;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-17" target="Gzq3qRDjKPmdAzM6GHBw-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-140" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-590" y="80" />
-              <mxPoint x="-590" y="480" />
-              <mxPoint x="-340" y="480" />
-              <mxPoint x="-340" y="470" />
-              <mxPoint x="-140" y="470" />
-              <mxPoint x="-140" y="465" />
+              <mxPoint x="-580" y="30" />
+              <mxPoint x="-580" y="60" />
+              <mxPoint x="-615" y="60" />
+              <mxPoint x="-615" y="175" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -53,7 +40,7 @@
         <mxCell id="CR9XvU6vuiPJ1lPbERPu-18" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Deporte&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idDeporte&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;tipoDeporte&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;caracteristicas&lt;br&gt;idEvento&lt;br&gt;cantidadParticipantes&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
           <mxGeometry x="-125" y="150" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=1.017;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-19" target="CR9XvU6vuiPJ1lPbERPu-18">
+        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=1.017;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CR9XvU6vuiPJ1lPbERPu-19" target="CR9XvU6vuiPJ1lPbERPu-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="-22" as="targetPoint" />
             <Array as="points">
@@ -62,13 +49,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="D2q6A7rw465Pvs5loLwe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=cross;startFill=0;entryX=1.009;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-19" target="Gzq3qRDjKPmdAzM6GHBw-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="205" y="-90" />
+              <mxPoint x="-600" y="-90" />
+              <mxPoint x="-600" y="32" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2q6A7rw465Pvs5loLwe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=cross;startFill=0;entryX=-0.017;entryY=0.884;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-19" target="Gzq3qRDjKPmdAzM6GHBw-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-880" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="-110" />
+              <mxPoint x="-900" y="-110" />
+              <mxPoint x="-900" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CR9XvU6vuiPJ1lPbERPu-19" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Evento&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idEvento&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;tipoEvento&lt;br&gt;fechaEvento&lt;br&gt;lugarEvento&lt;br&gt;limiteVenta&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="-70" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="D2q6A7rw465Pvs5loLwe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=cross;startFill=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-24" target="Gzq3qRDjKPmdAzM6GHBw-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-71" y="-100" />
+              <mxPoint x="-890" y="-100" />
+              <mxPoint x="-890" y="198" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CR9XvU6vuiPJ1lPbERPu-24" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Deportista&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idDeportista&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;DatosPersonales&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK2&lt;br&gt;FK3 &lt;br&gt;&lt;/td&gt;&lt;td&gt;idDeporte&lt;br&gt;idHistoricoParticipacion&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
           <mxGeometry x="-125" y="-70" width="215" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=-0.011;entryY=0.174;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-29" target="CR9XvU6vuiPJ1lPbERPu-19">
+        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=-0.011;entryY=0.174;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CR9XvU6vuiPJ1lPbERPu-29" target="CR9XvU6vuiPJ1lPbERPu-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-290" y="350" as="targetPoint" />
             <Array as="points">
@@ -79,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=1.011;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-29" target="CR9XvU6vuiPJ1lPbERPu-19">
+        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=cross;startFill=0;startSize=6;endSize=8;entryX=1.011;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CR9XvU6vuiPJ1lPbERPu-29" target="CR9XvU6vuiPJ1lPbERPu-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-290" y="380" as="targetPoint" />
             <Array as="points">
@@ -90,10 +106,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CR9XvU6vuiPJ1lPbERPu-29" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Inscripción&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idIncripcion&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idUsuario&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;idEvento&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-530" y="150" width="220" height="140" as="geometry" />
+        <mxCell id="D2q6A7rw465Pvs5loLwe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=cross;startFill=0;entryX=1.009;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-29" target="CR9XvU6vuiPJ1lPbERPu-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-370" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-395" y="140" />
+              <mxPoint x="-370" y="140" />
+              <mxPoint x="-370" y="-2" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-3" value="" style="endArrow=classic;startArrow=cross;html=1;startFill=0;exitX=0.023;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.027;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CR9XvU6vuiPJ1lPbERPu-24" target="CR9XvU6vuiPJ1lPbERPu-18">
+        <mxCell id="CR9XvU6vuiPJ1lPbERPu-29" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Inscripción&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idIncripcion&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idUsuario&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;idEvento&lt;br&gt;precioEvento&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="150" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-3" value="" style="endArrow=classic;startArrow=cross;html=1;startFill=0;exitX=0.023;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.027;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CR9XvU6vuiPJ1lPbERPu-24" target="CR9XvU6vuiPJ1lPbERPu-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-320" y="100" as="sourcePoint" />
             <mxPoint x="-210" y="190" as="targetPoint" />
@@ -103,11 +129,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-5" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Carrito&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idCarrito&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idUsuario&lt;br&gt;tipoEvento&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;metodoDePago&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-540" y="360" width="190" height="110" as="geometry" />
+        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-5" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Carrito&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idCarrito&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idUsuario&lt;br&gt;idEvento&lt;br&gt;cantidad&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;metodoDePago&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="-10" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-17" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Premiación&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Premiacion&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idUsuario&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK2&lt;br&gt;&lt;/td&gt;&lt;td&gt;idDeporte&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="430" width="180" height="90" as="geometry" />
+        <mxCell id="Gzq3qRDjKPmdAzM6GHBw-17" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Premiación&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;Premiacion&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idUsuario&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK2&lt;br&gt;FK3&lt;br&gt;&lt;/td&gt;&lt;td&gt;idDeportista&lt;br&gt;idEvento&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="130" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="D2q6A7rw465Pvs5loLwe-1" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Publicidad&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idPublicidad&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idEvento&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;idInscripcion&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="390" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

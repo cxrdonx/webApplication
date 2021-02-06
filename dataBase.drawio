@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T00:03:13.603Z" agent="5.0 (Windows)" etag="5QTUINrcwPCG4aaqd1l1" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-06T08:20:08.849Z" agent="5.0 (Windows)" etag="sYGCZnzzMK2WO_eSFrjY" version="13.10.9" type="github">
   <diagram id="KuIn4XUdtdqArqsvYNwZ" name="Page-1">
-    <mxGraphModel dx="4070" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4223" dy="1964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ctFdFcrBRmM7_61zu4mL-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1710" y="-870" width="940" height="810" as="geometry" />
+        </mxCell>
         <mxCell id="CR9XvU6vuiPJ1lPbERPu-10" value="&lt;b&gt;Tablas&lt;/b&gt;&lt;div&gt;usuarios&lt;/div&gt;&lt;div&gt;deporte&lt;/div&gt;&lt;div&gt;deportista&lt;/div&gt;&lt;div&gt;evento&lt;/div&gt;&lt;div&gt;inscripcion a evento&lt;/div&gt;&lt;div&gt;carrito de compras&lt;br&gt;&lt;/div&gt;&lt;div&gt;forma de pago &lt;br&gt;&lt;/div&gt;&lt;div&gt;premiación&lt;/div&gt;&lt;div&gt;publicidad de evento&lt;/div&gt;&lt;div&gt;Histórico de participación&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="-575" y="-290" width="150" height="170" as="geometry" />
         </mxCell>
@@ -151,6 +154,24 @@
         </mxCell>
         <mxCell id="n-9iOmBILVvXKxpAP9i6-5" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;subCategoria&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idSubCategoria&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idCategoria&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;nombre&lt;br&gt;descripcion&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="210" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ctFdFcrBRmM7_61zu4mL-7" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Guatemala&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idVaccineUpgrade&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;location&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;date&lt;br&gt;vaccine&lt;br&gt;source&lt;br&gt;total_vaccinations&lt;br&gt;people_vaccinated&lt;br&gt;people_fully_vaccinated&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1600" y="-595" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ctFdFcrBRmM7_61zu4mL-9" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;El Salvador&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idVaccineUpgrade&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;location&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;date&lt;br&gt;vaccine&lt;br&gt;source&lt;br&gt;total_vaccinations&lt;br&gt;people_vaccinated&lt;br&gt;peoople_fully_vaccinated&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-1085" y="-595" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ctFdFcrBRmM7_61zu4mL-12" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Usuarios&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;idUsuario&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;userName&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;password&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="-840" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ctFdFcrBRmM7_61zu4mL-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;vaccination&lt;/font&gt;CAA database" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="-900" width="235" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctFdFcrBRmM7_61zu4mL-14" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;Honduras&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;foreignKey&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;fieldname&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="-840" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ctFdFcrBRmM7_61zu4mL-15" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;VistaGeneral&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellspacing=&quot;0&quot; cellpadding=&quot;2&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;comparision&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;FK1&lt;/td&gt;&lt;td&gt;idVaccineUpgrade&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;date&lt;br&gt;vaccine&lt;br&gt;source&lt;br&gt;total_vaccinations&lt;br&gt;people_vaccinated&lt;br&gt;people_fully_vaccinated&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="-360" width="220" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

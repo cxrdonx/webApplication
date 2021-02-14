@@ -5,6 +5,7 @@ Sigue el patrón de diseño MVC </br>
 Login y register</br>
 perfil administrador permite crear reportes, actualizar, crear, y modificar registros en la base de datos</br>
 perfil de usuario</br>
+ORACLE como gestor de base de datos
 (en desarrollo) 
 
 
